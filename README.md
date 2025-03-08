@@ -1,5 +1,3 @@
-Here’s a **README.md** file for your GitHub repository **"1st-task-of-Admur-s"**:
-
 ---
 
 # **User Management System**  
